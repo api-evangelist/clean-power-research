@@ -1,0 +1,65 @@
+{
+    "name": "Clean Power Research",
+    "description": "Clean Power Research provides cloud services that inform business decisions, engage customers & streamline operations for utilities and the energy industry.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1395-clean-power-research.jpg",
+    "tags": [
+        "api provider",
+        "energy",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clean-power-research\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Clean Power Research",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1395-clean-power-research.jpg",
+            "humanURL": "http:\/\/www.cleanpower.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clean-power-research-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/service.solaranywhere.com\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.cleanpower.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/clean-power-research"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.cleanpower.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "media@cleanpower.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@cleanpower.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/CleanPowerRes"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.cleanpower.com\/"
+        }
+    ]
+}
